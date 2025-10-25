@@ -15,7 +15,7 @@ const About = () => {
         <div className="row align-items-center">
           <div className="col-lg-5 m-15px-tb">
             <div className="about-me-img box-shadow">
-              <img src="demo/img/about.png" alt="image" />
+              <img src="demo/img/about-2.png" alt="image" />
               <div className="nav social-icon">
                 {/* <a href="#">
                   <i className="fab fa-facebook-f" />

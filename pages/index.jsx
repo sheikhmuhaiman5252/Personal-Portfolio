@@ -10,6 +10,7 @@ import Services from "@/src/components/Services";
 import TypingAnimation from "@/src/components/TypingAnimation";
 import Footer from "@/src/layouts/Footer";
 import dynamic from "next/dynamic";
+import ParticlesBackground from "@/src/ParticlesBackground";
 
 const Work = dynamic(() => import("@/src/components/Work"), {
   ssr: false,
@@ -87,11 +88,14 @@ const Index = () => {
       </header>
 
       <main className="main-left">
+        <div id="particles-box" className="particles-box">
+          <ParticlesBackground />
+        </div>
         {/* Home Banner */}
         <section
           id="home"
           className="home-banner bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: "url(demo/img/banner-image-2.png)" }}
+          style={{ backgroundImage: "url(demo/img/banner-image.png)" }}
         >
           <div className="container">
             <div className="row full-screen align-items-center p-100px-tb">

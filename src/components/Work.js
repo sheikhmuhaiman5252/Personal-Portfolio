@@ -42,7 +42,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/rsvp.png" alt="image" />
+                <img src="static/img/rsvp (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>RSVP by Anastasia</h5>
@@ -55,7 +55,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/TYLT.png" alt="image" />
+                <img src="static/img/TYLT (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>TYLT</h5>
@@ -68,7 +68,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/redford.png" alt="image" />
+                <img src="static/img/redford (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Redford</h5>
@@ -81,7 +81,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/ishaya.png" alt="image" />
+                <img src="static/img/ishaya (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>ISHAYA</h5>
@@ -94,7 +94,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/ecofiber.png" alt="image" />
+                <img src="static/img/ecofiber (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Eco Fibre</h5>
@@ -107,7 +107,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/klimazentral.png" alt="image" />
+                <img src="static/img/klimazentral (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>klimazentral</h5>
@@ -120,7 +120,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/lifewatch.png" alt="image" />
+                <img src="static/img/lifewatch (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Life Watch</h5>
@@ -133,7 +133,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/alineinsole.png" alt="image" />
+                <img src="static/img/alineinsole (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>A line Insole</h5>
@@ -146,7 +146,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/skirting.png" alt="image" />
+                <img src="static/img/skirting (Custom).png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Skirting4Less</h5>
