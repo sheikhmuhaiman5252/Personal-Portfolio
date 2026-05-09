@@ -42,11 +42,83 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/rsvp (Custom).png" alt="image" />
+                <img src="static/img/christianlouboutin.webp" alt="image" />
+              </div>
+              <div className="portfolio-info">
+                <h5>CHRISTIAN LOUBOUTIN</h5>
+                <span>Fashion</span>
+              </div>
+              <a className="link-overlay" href="https://ae.christianlouboutin.com/" target="_blank" />
+            </div>
+          </div>{" "}
+          <div className="grid-item product branding">
+            <div className="portfolio-box-01">
+              <div className="portfolio-img">
+                <img src="static/img/juilitte.webp" alt="image" />
+              </div>
+              <div className="portfolio-info">
+                <h5>JULIETTE - PAIN D'AMOUR</h5>
+                <span>Food & Beverage</span>
+              </div>
+              <a className="link-overlay" href="https://juliette-boulangerie.ch/" target="_blank" />
+            </div>
+          </div>{" "}
+          <div className="grid-item product branding">
+            <div className="portfolio-box-01">
+              <div className="portfolio-img">
+                <img src="static/img/aura171_1.webp" alt="image" />
+              </div>
+              <div className="portfolio-info">
+                <h5>AURA SKYPOOL BOUTIQUE</h5>
+                <span>Lifestyle</span>
+              </div>
+              <a className="link-overlay" href="https://auraskypool.com/" target="_blank" />
+            </div>
+          </div>{" "}
+          <div className="grid-item product branding">
+            <div className="portfolio-box-01">
+              <div className="portfolio-img">
+                <img src="static/img/send location.png" alt="image" />
+              </div>
+              <div className="portfolio-info">
+                <h5>SEND LOCATION</h5>
+                <span>Sportswear</span>
+              </div>
+              <a className="link-overlay" href="https://sendlocation.com/" target="_blank" />
+            </div>
+          </div>{" "}
+          <div className="grid-item product branding">
+            <div className="portfolio-box-01">
+              <div className="portfolio-img">
+                <img src="static/img/FURNITURE.webp" alt="image" />
+              </div>
+              <div className="portfolio-info">
+                <h5>NIRA STORE</h5>
+                <span>Multi-Category Ecommerce</span>
+              </div>
+              <a className="link-overlay" href="https://nirastore.com/" target="_blank" />
+            </div>
+          </div>{" "}
+          <div className="grid-item product branding">
+            <div className="portfolio-box-01">
+              <div className="portfolio-img">
+                <img src="static/img/nalbandian.webp" alt="image" />
+              </div>
+              <div className="portfolio-info">
+                <h5>NALBANDIAN CARPETS</h5>
+                <span>Carpetry</span>
+              </div>
+              <a className="link-overlay" href="https://nalbandiancarpets.com/" target="_blank" />
+            </div>
+          </div>{" "}
+          <div className="grid-item product branding">
+            <div className="portfolio-box-01">
+              <div className="portfolio-img">
+                <img src="static/img/rsvp.webp" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>RSVP by Anastasia</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Floral Design / Event Planning</span>
               </div>
               <a className="link-overlay" href="https://rsvpbyanastasia.com/" target="_blank" />
             </div>
@@ -59,9 +131,9 @@ const Work = () => {
               </div>
               <div className="portfolio-info">
                 <h5>TYLT</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Consumer Electronics / Tech Accessories</span>
               </div>
-              <a className="link-overlay" href="https://www.tylt.com/" target="_blank"/>
+              <a className="link-overlay" href="https://www.tylt.com/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
@@ -72,9 +144,9 @@ const Work = () => {
               </div>
               <div className="portfolio-info">
                 <h5>Redford</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Home Improvement / Outdoor & Garden</span>
               </div>
-              <a className="link-overlay" href="https://redfordsupply.com/" target="_blank"/>
+              <a className="link-overlay" href="https://redfordsupply.com/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
@@ -85,9 +157,9 @@ const Work = () => {
               </div>
               <div className="portfolio-info">
                 <h5>ISHAYA</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Fashion</span>
               </div>
-              <a className="link-overlay" href="https://ishaya.fr/" target="_blank"/>
+              <a className="link-overlay" href="https://ishaya.fr/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
@@ -98,9 +170,9 @@ const Work = () => {
               </div>
               <div className="portfolio-info">
                 <h5>Eco Fibre</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Sustainable Packaging</span>
               </div>
-              <a className="link-overlay" href="https://ecofibre.eu/" target="_blank"/>
+              <a className="link-overlay" href="https://ecofibre.eu/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
@@ -111,35 +183,35 @@ const Work = () => {
               </div>
               <div className="portfolio-info">
                 <h5>klimazentral</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Electronics</span>
               </div>
-              <a className="link-overlay" href="https://klimazentral.de/" target="_blank"/>
+              <a className="link-overlay" href="https://klimazentral.de/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/lifewatch (Custom).png" alt="image" />
+                <img src="static/img/life watch.png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Life Watch</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Wearable Tech</span>
               </div>
-              <a className="link-overlay" href="https://getlifewatch.com/" target="_blank"/>
+              <a className="link-overlay" href="https://getlifewatch.com/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/alineinsole (Custom).png" alt="image" />
+                <img src="static/img/aline.webp" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>A line Insole</h5>
-                <span>Custom Shopify Theme</span>
+                <span>Health & Wellness</span>
               </div>
-              <a className="link-overlay" href="https://alineinsoles.com/" target="_blank"/>
+              <a className="link-overlay" href="https://alineinsoles.com/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
@@ -150,9 +222,9 @@ const Work = () => {
               </div>
               <div className="portfolio-info">
                 <h5>Skirting4Less</h5>
-                <span>Customized Shopify Theme</span>
+                <span>Building Materials</span>
               </div>
-              <a className="link-overlay" href="https://skirting4less.co.uk/" target="_blank"/>
+              <a className="link-overlay" href="https://skirting4less.co.uk/" target="_blank" />
             </div>
           </div>{" "}
         </div>{" "}

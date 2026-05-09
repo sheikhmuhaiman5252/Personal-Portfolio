@@ -28,7 +28,7 @@ const Skills = () => {
                 <div
                   className="skill-bar-in theme-bg"
                   role="progressbar"
-                  aria-valuenow={92}
+                  aria-valuenow={99}
                   aria-valuemin={0}
                   aria-valuemax={100}
                 >
@@ -44,11 +44,11 @@ const Skills = () => {
                 <div
                   className="skill-bar-in theme-bg"
                   role="progressbar"
-                  aria-valuenow={72}
+                  aria-valuenow={99}
                   aria-valuemin={0}
                   aria-valuemax={100}
                 >
-                  <span>75%</span>
+                  <span>99%</span>
                 </div>
               </div>
             </div>
@@ -60,7 +60,7 @@ const Skills = () => {
                 <div
                   className="skill-bar-in theme-bg"
                   role="progressbar"
-                  aria-valuenow={86}
+                  aria-valuenow={99}
                   aria-valuemin={0}
                   aria-valuemax={100}
                 >
@@ -77,7 +77,7 @@ const Skills = () => {
                 <div
                   className="skill-bar-in theme-bg"
                   role="progressbar"
-                  aria-valuenow={88}
+                  aria-valuenow={99}
                   aria-valuemin={0}
                   aria-valuemax={100}
                 >
@@ -95,7 +95,7 @@ const Skills = () => {
                     <i className="fas fa-briefcase" />
                   </div>
                   <div className="media-body">
-                    <h5>3+ Years of Experience</h5>
+                    <h5>4+ Years of Experience</h5>
                   </div>
                 </div>
               </div>

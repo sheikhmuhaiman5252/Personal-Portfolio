@@ -7,9 +7,9 @@ const TypingAnimation = () => {
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: ["Freelancer", "Web Developer", "Shopify Developer", "E-Commerce Specialist", "Speed Optimization Stores", "Custom Shopify Themes Development"], // Strings to display
-      typeSpeed: 100,
-      backSpeed: 100,
-      backDelay: 100,
+      typeSpeed: 80,
+      backSpeed: 80,
+      backDelay: 80,
       smartBackspace: true,
       loop: true,
       showCursor: false,

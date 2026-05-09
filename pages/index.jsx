@@ -26,7 +26,7 @@ const Index = () => {
       <div className="mob-header">
         <div className="d-flex">
           <div className="navbar-brand">
-            <a className="logo-text" href="index.html">
+            <a className="logo-text" href="/">
               Abdul Muhaiman
             </a>
           </div>
@@ -43,7 +43,7 @@ const Index = () => {
         id="navbar-collapse-toggle"
       >
         <div className="navbar-brand">
-          <a className="logo-text" href="index.html" target="_blank">
+          <a className="logo-text" href="/">
             Abdul Muhaiman
           </a>
         </div>
