@@ -127,20 +127,20 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/TYLT (Custom).png" alt="image" />
+                <img src="static/img/Cherry_Dust_2.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>TYLT</h5>
-                <span>Consumer Electronics / Tech Accessories</span>
+                <h5>KETO KARTEL</h5>
+                <span>Food & Beverage</span>
               </div>
-              <a className="link-overlay" href="https://www.tylt.com/" target="_blank" />
+              <a className="link-overlay" href="https://keto-kartel.com/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/redford (Custom).png" alt="image" />
+                <img src="static/img/redford.jpeg" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Redford</h5>
@@ -153,7 +153,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/ishaya (Custom).png" alt="image" />
+                <img src="static/img/ishaya.jpg" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>ISHAYA</h5>
@@ -166,7 +166,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/ecofiber (Custom).png" alt="image" />
+                <img src="static/img/ecofiber.png" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Eco Fibre</h5>
@@ -179,13 +179,13 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/klimazentral (Custom).png" alt="image" />
+                <img src="static/img/meemseen.webp" alt="image" />
               </div>
               <div className="portfolio-info">
-                <h5>klimazentral</h5>
-                <span>Electronics</span>
+                <h5>Meem Seen</h5>
+                <span>Fashion</span>
               </div>
-              <a className="link-overlay" href="https://klimazentral.de/" target="_blank" />
+              <a className="link-overlay" href="https://meemseen.pk/" target="_blank" />
             </div>
           </div>{" "}
           {/* grid item */}
@@ -218,7 +218,7 @@ const Work = () => {
           <div className="grid-item product branding">
             <div className="portfolio-box-01">
               <div className="portfolio-img">
-                <img src="static/img/skirting (Custom).png" alt="image" />
+                <img src="static/img/banner.webp" alt="image" />
               </div>
               <div className="portfolio-info">
                 <h5>Skirting4Less</h5>
